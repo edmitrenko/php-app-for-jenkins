@@ -21,7 +21,7 @@ echo '<p style="color: red; text-align: center">
 
 <style type="text/css">
    .text1 { 
-    color: magenta; 
+    color: blue; 
     }
   </style> 
 
